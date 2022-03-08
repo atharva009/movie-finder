@@ -3,7 +3,7 @@ import './App.css';
 import SearchIcon from './search.svg';
 import MovieCard from "./MovieCard";
 
-const API_URL = `http://www.omdbapi.com?apikey=9f7a678e`;
+const API_URL = `http://www.omdbapi.com?apikey=${API_KEY}`;
 
 // const movie1 = {
 //     "Title": "Amazing Spiderman Syndrome",
